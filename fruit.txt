@@ -7,3 +7,5 @@ lemon
 kiwi
 melon
 blueberry
+grape
+strawberry
